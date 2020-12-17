@@ -1,5 +1,17 @@
-# Welcome
-This is the home repository for learning. This organisation is dedicated towards learning flutter.
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Learn Flutter in 30 days](#learn-flutter-in-30-days)
+  - [Day 1:](#day-1)
+    - [Getting started with the right resources.](#getting-started-with-the-right-resources)
+  - [Day 2:](#day-2)
+    - [Getting dirty with the code.](#getting-dirty-with-the-code)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Learn Flutter in 30 days
+This repository is designed to learn flutter in 30 days. The task are designed in such a way a person with basic programming sense can learn flutter in 30 days.
 
  
 
