@@ -17,10 +17,6 @@ A brief overview of what the flutter framework is and what its capabilities are 
 Please use the following url to run your dart code online. [https://dartpad.dev/](https://dartpad.dev/) You can copy paste the following code and run it in the given url.
 
 ```dart
-// Copyright 2018 The Flutter team. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
