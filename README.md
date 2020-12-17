@@ -11,7 +11,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Learn Flutter in 30 days
-This repository is designed to learn flutter in 30 days. The task are designed in such a way a person with basic programming sense can learn flutter in 30 days.
+This repository is designed to learn flutter in 30 days. The task are designed in such a way a person with basic programming sense can **self-learn** flutter in 30 days.
 
  
 
