@@ -7,6 +7,8 @@
     - [Getting started with the right resources.](#getting-started-with-the-right-resources)
   - [Day 2:](#day-2)
     - [Getting dirty with the code.](#getting-dirty-with-the-code)
+  - [Day 3:](#day-3)
+    - [Understanding the diff. between stateless and stateful widgets.](#understanding-the-diff-between-stateless-and-stateful-widgets)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -45,6 +47,67 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Text('Hello World'),
         ),
+      ),
+    );
+  }
+}
+```
+
+## Day 3:
+### Understanding the diff. between stateless and stateful widgets.
+
+Widgets are the building blocks for constructing UI in flutter. The entire app is treated as a `Widget` and all 'elements' within are extended from `Widget` class as well.
+Flutter builds these widgets based on the properties and state variables passed to them.
+Here we will try to understand the difference between a `StatelessWidget` and a `StatefulWidget`.
+
+The above example given for [day 2](#day-2) is an example of stateless widget.
+
+The following is an example of `StatefulWidget`.
+```dart
+import 'package:flutter/material.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      home: MyHomePage(title: 'Flutter Demo Home Page'),
+    );
+  }
+}
+
+class MyHomePage extends StatefulWidget {
+  MyHomePage({Key key, this.title}) : super(key: key);
+
+  final String title;
+
+  @override
+  _MyHomePageState createState() => _MyHomePageState();
+}
+
+class _MyHomePageState extends State<MyHomePage> {
+  int _counter = 0;
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(widget.title),
+      ),
+      body: Center(
+        child: Text('You have pushed the button $_counter times.',
+            style: TextStyle(fontSize: 20)),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          setState(() {
+            _counter++;
+          });
+        },
+        tooltip: 'Increment',
+        child: Icon(Icons.add),
       ),
     );
   }
