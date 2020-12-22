@@ -128,4 +128,5 @@ Flutter Navigator. Navigatation to another page
 
 
 ## Day 6:
-
+### Local installation.
+Install flutter in local machine and clone the personal repositories.
