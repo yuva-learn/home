@@ -134,4 +134,5 @@ Install flutter in local machine and clone the personal repositories.
 ## Day 7:
 ### Route Naviagation
 [Simple Navigation](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
+
 [Navigating using named routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
