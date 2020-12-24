@@ -9,7 +9,14 @@
     - [Getting dirty with the code.](#getting-dirty-with-the-code)
   - [Day 3:](#day-3)
     - [Understanding the diff. between stateless and stateful widgets.](#understanding-the-diff-between-stateless-and-stateful-widgets)
-
+  - [Day 4:](#day-4)
+  - [Day 5:](#day-5)
+    - [Basics of git](#basics-of-git)
+  - [Day 6:](#day-6)
+    - [Local installation.](#local-installation)
+  - [Day 7:](#day-7)
+    - [Route Naviagation](#route-naviagation)
+  - [Day 8](#day-8)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
