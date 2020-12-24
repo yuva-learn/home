@@ -15,7 +15,7 @@
   - [Day 6:](#day-6)
     - [Local installation.](#local-installation)
   - [Day 7:](#day-7)
-    - [Route Naviagation](#route-naviagation)
+    - [Route Navigation](#route-navigation)
   - [Day 8](#day-8)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -140,7 +140,7 @@ Flutter Navigator. Navigatation to another page
 Install flutter in local machine and clone the personal repositories.
 
 ## Day 7:
-### Route Naviagation
+### Route Navigation
 [Simple Navigation](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
 
 [Navigating using named routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
