@@ -116,3 +116,27 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 
 [More info about these can be found here](https://flutter.dev/docs/development/ui/interactive)
+## Day 4:
+Best pratices in programming
+
+## Day 5:
+### Basics of git
+Basics of git
+[https://www.youtube.com/watch?v=SWYqp7iY_Tc](https://www.youtube.com/watch?v=SWYqp7iY_Tc_)
+
+Flutter Navigator. Navigatation to another page
+[https://www.youtube.com/watch?v=wH16ROWAtAk](https://www.youtube.com/watch?v=wH16ROWAtAk)
+
+
+## Day 6:
+### Local installation.
+Install flutter in local machine and clone the personal repositories.
+
+## Day 7:
+### Route Naviagation
+[Simple Navigation](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
+
+[Navigating using named routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
+
+## Day 8
+Troubleshooting with existing code
