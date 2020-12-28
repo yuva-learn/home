@@ -17,6 +17,9 @@
   - [Day 7:](#day-7)
     - [Route Navigation](#route-navigation)
   - [Day 8](#day-8)
+  - [Day 9](#day-9)
+  - [Day 10](#day-10)
+  - [Day 11](#day-11)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
@@ -147,3 +150,17 @@ Install flutter in local machine and clone the personal repositories.
 
 ## Day 8
 Troubleshooting with existing code
+
+## Day 9
+Making network calls. An example project has been provided
+[https://github.com/yuva-learn/eg_network](https://github.com/yuva-learn/eg_network)
+
+## Day 10
+Troubleshooting with existing code
+
+## Day 11
+Json Serialization and deserialisation
+[https://flutter.dev/docs/development/data-and-backend/json](https://flutter.dev/docs/development/data-and-backend/json)
+
+Have a look at this video tutorial to get an idea of how to convert large dart objects to json easily.
+[Flutter json serialization](https://www.youtube.com/watch?v=8fFoLs9qVQA)
