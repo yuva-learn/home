@@ -20,6 +20,9 @@
   - [Day 9](#day-9)
   - [Day 10](#day-10)
   - [Day 11](#day-11)
+    - [Json Serialization and deserialisation](#json-serialization-and-deserialisation)
+  - [Day 12](#day-12)
+    - [Git branching.](#git-branching)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
@@ -159,8 +162,15 @@ Making network calls. An example project has been provided
 Troubleshooting with existing code
 
 ## Day 11
-Json Serialization and deserialisation
+### Json Serialization and deserialisation
 [https://flutter.dev/docs/development/data-and-backend/json](https://flutter.dev/docs/development/data-and-backend/json)
 
 Have a look at this video tutorial to get an idea of how to convert large dart objects to json easily.
 [Flutter json serialization](https://www.youtube.com/watch?v=8fFoLs9qVQA)
+
+## Day 12
+
+### Git branching. 
+How to create branches and collaborate.
+
+
