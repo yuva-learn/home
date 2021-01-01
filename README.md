@@ -174,9 +174,6 @@ Have a look at this video tutorial to get an idea of how to convert large dart o
 How to create branches and collaborate.
 
 
-## Day 13
-### Coding Practice
-
-## Day 14
-Practice
+## Day 13 - 15
+### Code Practicing
 
