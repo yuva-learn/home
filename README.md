@@ -177,3 +177,6 @@ How to create branches and collaborate.
 ## Day 13 - 15
 ### Code Practicing
 
+## Day 16
+## Understanding Constraints
+[https://flutter.dev/docs/development/ui/layout/constraints](https://flutter.dev/docs/development/ui/layout/constraints)
