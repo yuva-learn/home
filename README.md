@@ -23,6 +23,12 @@
     - [Json Serialization and deserialisation](#json-serialization-and-deserialisation)
   - [Day 12](#day-12)
     - [Git branching.](#git-branching)
+  - [Day 13 - 15](#day-13---15)
+    - [Code Practicing](#code-practicing)
+  - [Day 16](#day-16)
+    - [Understanding Constraints](#understanding-constraints)
+  - [Day 17](#day-17)
+    - [UI design task](#ui-design-task)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
@@ -183,5 +189,12 @@ How to create branches and collaborate.
 
 
 ## Day 17
-## UI design task
+### UI design task
+<img src="https://ik.imagekit.io/3wzatecz51w3i/github/covid-19-flutter-ui"/>
+Users will learn to create a UI desgin similar to the one above. The resources to do so can be found here.
+
+> [Youtube tutorial](https://www.youtube.com/watch?v=zx6uMCoW2gQ)
+
+> [Source code here](https://github.com/abuanwar072/Covid-19-Flutter-UI)
+
 
