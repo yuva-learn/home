@@ -188,7 +188,7 @@ How to create branches and collaborate.
 [https://flutter.dev/docs/development/ui/layout/constraints](https://flutter.dev/docs/development/ui/layout/constraints)
 
 
-## Day 17
+## Day 17 - 19
 ### UI design task
 <img src="https://ik.imagekit.io/3wzatecz51w3i/github/covid-19-flutter-ui"/>
 Users will learn to create a UI desgin similar to the one above. The resources to do so can be found here.
