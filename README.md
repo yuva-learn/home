@@ -197,4 +197,14 @@ Users will learn to create a UI desgin similar to the one above. The resources t
 
 > [Source code here](https://github.com/abuanwar072/Covid-19-Flutter-UI)
 
+## Day 20
+### Saving and Retrieving data for Firebase cloud
+
+Adding firebase to flutter app
+[https://firebase.google.com/docs/flutter/setup](https://firebase.google.com/docs/flutter/setup)
+
+Using Firebase firestore to save and retrieve data.
+[https://firebase.flutter.dev/docs/firestore/usage/](https://firebase.flutter.dev/docs/firestore/usage/)
+
+
 
